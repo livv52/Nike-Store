@@ -37,7 +37,7 @@
 
   $(function(){
     $('#collapse1').on('hide.bs.collapse', function () {
-      $('#button-c-1-j').html('<img class="myslide-m" src="../resources/PNG/Shoes/Sliders/slideJos.png">');
+      $('#button-c-1-j').html('<img class="myslide-m" src="resources/PNG/Shoes/Sliders/slideJos.png">');
     })
     $('#collapse1').on('show.bs.collapse', function () {
       $('#button-c-1-j').html('');
@@ -46,13 +46,13 @@
       $('#button-c-1-s').html('');
     })
     $('#collapse1').on('show.bs.collapse', function () {
-      $('#button-c-1-s').html('<img class="myslide-m" src="../resources/PNG/Shoes/Sliders/slideSus.png">');
+      $('#button-c-1-s').html('<img class="myslide-m" src="resources/PNG/Shoes/Sliders/slideSus.png">');
     })
   })
 
   $(function(){
     $('#collapse2').on('hide.bs.collapse', function () {
-      $('#button-c-2-j').html('<img class="myslide-m" src="../resources/PNG/Shoes/Sliders/slideJos.png">');
+      $('#button-c-2-j').html('<img class="myslide-m" src="resources/PNG/Shoes/Sliders/slideJos.png">');
     })
     $('#collapse2').on('show.bs.collapse', function () {
       $('#button-c-2-j').html('');
@@ -61,13 +61,13 @@
       $('#button-c-2-s').html('');
     })
     $('#collapse2').on('show.bs.collapse', function () {
-      $('#button-c-2-s').html('<img class="myslide-m" src="../resources/PNG/Shoes/Sliders/slideSus.png">');
+      $('#button-c-2-s').html('<img class="myslide-m" src="resources/PNG/Shoes/Sliders/slideSus.png">');
     })
   })
 
   $(function(){
     $('#collapse3').on('hide.bs.collapse', function () {
-      $('#button-c-3-j').html('<img class="myslide-m" src="../resources/PNG/Shoes/Sliders/slideJos.png">');
+      $('#button-c-3-j').html('<img class="myslide-m" src="resources/PNG/Shoes/Sliders/slideJos.png">');
     })
     $('#collapse3').on('show.bs.collapse', function () {
       $('#button-c-3-j').html('');
@@ -76,13 +76,13 @@
       $('#button-c-3-s').html('');
     })
     $('#collapse3').on('show.bs.collapse', function () {
-      $('#button-c-3-s').html('<img class="myslide-m" src="../resources/PNG/Shoes/Sliders/slideSus.png">');
+      $('#button-c-3-s').html('<img class="myslide-m" src="resources/PNG/Shoes/Sliders/slideSus.png">');
     })
   })
 
   $(function(){
     $('#collapse4').on('hide.bs.collapse', function () {
-      $('#button-c-4-j').html('<img class="myslide-m" src="../resources/PNG/Shoes/Sliders/slideJos.png">');
+      $('#button-c-4-j').html('<img class="myslide-m" src="resources/PNG/Shoes/Sliders/slideJos.png">');
     })
     $('#collapse4').on('show.bs.collapse', function () {
       $('#button-c-4-j').html('');
@@ -91,13 +91,13 @@
       $('#button-c-4-s').html('');
     })
     $('#collapse4').on('show.bs.collapse', function () {
-      $('#button-c-4-s').html('<img class="myslide-m" src="../resources/PNG/Shoes/Sliders/slideSus.png">');
+      $('#button-c-4-s').html('<img class="myslide-m" src="resources/PNG/Shoes/Sliders/slideSus.png">');
     })
   })
 
   $(function(){
     $('#collapse5').on('hide.bs.collapse', function () {
-      $('#button-c-5-j').html('<img class="myslide-m" src="../resources/PNG/Shoes/Sliders/slideJos.png">');
+      $('#button-c-5-j').html('<img class="myslide-m" src="resources/PNG/Shoes/Sliders/slideJos.png">');
     })
     $('#collapse5').on('show.bs.collapse', function () {
       $('#button-c-5-j').html('');
@@ -106,13 +106,13 @@
       $('#button-c-5-s').html('');
     })
     $('#collapse5').on('show.bs.collapse', function () {
-      $('#button-c-5-s').html('<img class="myslide-m" src="../resources/PNG/Shoes/Sliders/slideSus.png">');
+      $('#button-c-5-s').html('<img class="myslide-m" src="resources/PNG/Shoes/Sliders/slideSus.png">');
     })
   })
 
   $(function(){
     $('#collapse6').on('hide.bs.collapse', function () {
-      $('#button-c-6-j').html('<img class="myslide-m" src="../resources/PNG/Shoes/Sliders/slideJos.png">');
+      $('#button-c-6-j').html('<img class="myslide-m" src="resources/PNG/Shoes/Sliders/slideJos.png">');
     })
     $('#collapse6').on('show.bs.collapse', function () {
       $('#button-c-6-j').html('');
@@ -121,7 +121,7 @@
       $('#button-c-6-s').html('');
     })
     $('#collapse6').on('show.bs.collapse', function () {
-      $('#button-c-6-s').html('<img class="myslide-m" src="../resources/PNG/Shoes/Sliders/slideSus.png">');
+      $('#button-c-6-s').html('<img class="myslide-m" src="resources/PNG/Shoes/Sliders/slideSus.png">');
     })
   })
 
