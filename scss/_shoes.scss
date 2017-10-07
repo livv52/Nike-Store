@@ -1,0 +1,28 @@
+// Styling for the services section
+#shoes {
+    text-align: center;
+    color: white;
+    background-image: url('../resources/PNG/Shoes/Rectangle_1.png');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    top:-30px;
+}
+
+.myslide-l{
+    width: 50px;
+    height: 50px;
+}
+
+.myslide-m{
+    width: 30px;
+    height: 30px;
+}
+
+@media screen and (max-width: 1000px){
+    #overlayShoes{
+        display: none;
+        }
+}

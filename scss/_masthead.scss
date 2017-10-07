@@ -1,0 +1,53 @@
+// Styling for the masthead
+html {
+  height: 100%;
+  overflow: hidden;
+}
+body {
+  margin:0;
+  padding:0;
+	-webkit-perspective: 1px;
+	perspective: 1px;
+	-webkit-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+  height: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+header {
+  box-sizing: border-box;
+  position: relative;
+  -webkit-transform-style: inherit;
+  transform-style: inherit;
+  width: 100vw;
+  color: white;
+  }
+header, header:before {
+  background: cover;
+}
+header::before {
+  bottom: 0;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+	display: block;
+  background-image: url('../resources/PNG/Header/pexels-photo-29859.png');
+  background-size: cover;
+  -webkit-transform-origin: center center 0;
+  -webkit-transform: translateZ(-1px) scale(2);
+  transform-origin: center center 0;
+  transform: translateZ(-1px) scale(2);
+  z-index: -1;
+  min-height: 100vh;
+  
+}
+main {
+
+  max-width: 1000em;
+  line-height: 1;
+  position: relative;
+
+  z-index: 2;
+}

@@ -1,0 +1,63 @@
+#prices{
+    background-image: url('../resources/PNG/Prices/Rectangle_1_copy.png');
+    text-align: center;
+    color: white;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+    max-width: 100%;
+    position: relative;
+    top:-250px;
+}
+
+.containerBox {
+    position: relative;
+    display: inline-block;
+}
+.text-box {
+    position: absolute;    
+    height: 100%;
+    text-align: center;    
+    width: 100%;
+    top:-350px;
+    h1{
+        font-size: 45px;
+    }
+}
+.text-box:before {
+   content: '';
+   display: inline-block;
+   height: 100%;
+   vertical-align: middle;
+}
+h4 {
+   display: inline-block;
+   font-size: 16px; /*or whatever you want*/
+   margin: 15px;
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+#rectangle3{
+    position:absolute;
+    top:140px;
+    left:70px;
+}
+
+.price{
+    color: #162C49;
+}
+
+.section-heading-spacer {
+
+    width: 150px;
+    border-top: 1px solid black;
+}
+
+.section-heading {
+    color: black;
+}
+

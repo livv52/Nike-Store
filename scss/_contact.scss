@@ -1,0 +1,64 @@
+// Styling for the contact section
+section#contact {
+  background-image: url('../resources/PNG/Contact/Rectangle_1_copy_2.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  max-width: 100%;
+  .section-heading {
+    color: white;
+  }
+  .form-group {
+    margin-bottom: 25px;
+
+    input.form-control {
+      height: auto;
+    
+    }
+    textarea.form-control {
+      height: 236px;
+    
+    }
+  }
+  .form-control:focus {
+    box-shadow: none;
+  }
+  ::-webkit-input-placeholder {
+    font-weight: 700;
+    color:white;
+
+   
+  }
+  :-moz-placeholder {
+    font-weight: 700;
+    color: white;
+ 
+    /* Firefox 18- */
+ 
+  }
+  ::-moz-placeholder {
+    font-weight: 700;
+    color: white;
+  
+    /* Firefox 19+ */
+   
+  }
+  :-ms-input-placeholder {
+    font-weight: 700;
+    color: white;
+   
+   
+  }
+
+}
+
+#contact{
+  position: relative;
+  top:-28rem;
+  z-index: 4;
+}
+.transparent-input {
+    background-color: rgba(50, 0, 167, 0.1) !important;
+    border:white !important;
+    border:2px solid!important;
+ }
